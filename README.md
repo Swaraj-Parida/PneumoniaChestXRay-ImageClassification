@@ -50,14 +50,12 @@ Precision               : 88.37%
 Recall (Pneumonia)      : 95.48% (For positive class)
 <!--Specificity             : -->
 </pre>
-
 #### Tools / Libraries
 <pre>
 Languages               : Python
 Tools/IDE               : Anaconda
 Libraries               : Keras, TensorFlow, VGG16
 </pre>
-
 #### Dates
 <pre>
 Duration                : January 2021
